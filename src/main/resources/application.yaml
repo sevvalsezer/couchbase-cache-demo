@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: couchbase-cache-demo
+
+couchbase:
+  url: 127.0.0.1
+  username: administrator
+  password: Pass123*
+  bucket: product-bucket
